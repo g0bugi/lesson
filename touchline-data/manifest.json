@@ -1,0 +1,15 @@
+{
+  "source": "EA SPORTS FC official Ratings API",
+  "season": "2026/27",
+  "generated_at": "2026-09-11T07:01:35Z",
+  "all_male_rows_seen": 16228,
+  "big5_players": 2543,
+  "clubs_by_league": {
+    "Premier League": 20,
+    "LaLiga": 20,
+    "Bundesliga": 18,
+    "Ligue 1": 18,
+    "Serie A": 20
+  },
+  "elapsed_seconds": 242.2
+}
